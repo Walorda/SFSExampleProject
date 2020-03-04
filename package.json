@@ -1,0 +1,20 @@
+{
+  "name": "SFSExampleProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts --module commonjs; node ./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walorda/SFSExampleProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walorda/SFSExampleProject/issues"
+  },
+  "homepage": "https://github.com/Walorda/SFSExampleProject#readme"
+}
